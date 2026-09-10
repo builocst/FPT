@@ -165,57 +165,57 @@ udp://@225.1.1.180:30120
 udp://@225.1.1.178:30120
 #EXTINF:-1 group-title="Truyền Hình" tvg-logo="https://i.ibb.co/R6myMTc/cchtvthethao.webp" tvg-id="cecd99d151bcb92a3866024f08c07b9f ",HTV Thể Thao
 udp://@225.1.1.165:30120
-#EXTINF:-1 group-title="Quốc Tế (HD)"https://static.wikia.nocookie.net/logos/images/2/26/KIX.png/revision/latest/scale-to-width-down/1200?cb=20211017094335&path-prefix=vi",KiX
+#EXTINF:-1 group-title="Truyền Hình" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/26/KIX.png/revision/latest/scale-to-width-down/1200?cb=20211017094335&path-prefix=vi",KiX
 udp://@225.1.2.144:30120
-#EXTINF:-1 group-title="Quốc Tế (HD)"https://i.postimg.cc/bJ4n1D6n/Warner-TV-Asia.png",Warner Bros TV HD
+#EXTINF:-1 group-title="Truyền Hình" tvg-logo="https://i.postimg.cc/bJ4n1D6n/Warner-TV-Asia.png",Warner Bros TV HD
 udp://@225.1.1.139:30120
-#EXTINF:-1 group-title="Quốc Tế (HD)"https://www.voilah.sg/wp-content/uploads/2020/04/cinema-world-2.png",Cinema World
+#EXTINF:-1 group-title="Truyền Hình" tvg-logo="https://www.voilah.sg/wp-content/uploads/2020/04/cinema-world-2.png",Cinema World
 udp://@225.1.1.142:30120
-#EXTINF:-1 group-title="Quốc Tế (HD)"https://i.ytimg.com/vi/0jFG4yuzMRo/maxresdefault.jpg",BBC Earth HD
+#EXTINF:-1 group-title="Truyền Hình" tvg-logo="https://i.ytimg.com/vi/0jFG4yuzMRo/maxresdefault.jpg",BBC Earth HD
 udp://@225.1.2.24:30120
-#EXTINF:-1 group-title="Quốc Tế (HD)"https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch502_425_305",BBC LIFESTYLE: Kênh chuyên sâu vi ðoi song
+#EXTINF:-1 group-title="Truyền Hình" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch502_425_305",BBC LIFESTYLE: Kênh chuyên sâu vi ðoi song
 udp://@225.1.2.52:30120
-#EXTINF:-1 group-title="Quốc Tế (HD)"https://i.ytimg.com/vi/jL2fsQB9J-g/maxresdefault.jpg",BBC News
+#EXTINF:-1 group-title="Truyền Hình" tvg-logo="https://i.ytimg.com/vi/jL2fsQB9J-g/maxresdefault.jpg",BBC News
 udp://@225.1.2.74:30120
-#EXTINF:-1 group-title="Quốc Tế (HD)"https://s72140.cdn.mytvnet.vn/vimages/7d/d5/58/8c/ce/ea/7d58c-pcbeebieshd-channel-unkn.png",BBC CbeeBies (HD 8Mbps)
+#EXTINF:-1 group-title="Truyền nHìh" tvg-logo="https://s72140.cdn.mytvnet.vn/vimages/7d/d5/58/8c/ce/ea/7d58c-pcbeebieshd-channel-unkn.png",BBC CbeeBies (HD 8Mbps)
 udp://@225.1.1.134:30120
-#EXTINF:-1 group-title="Quốc Tế (HD)"https://freight.cargo.site/w/1200/i/3cf72163d993c4d87263e6d4990ec4ccdd1e14b09ce89e6e35dee1de83ef4985/CN.jpg",CARTOON NETWORK HD
+#EXTINF:-1 group-title="Truyền Hình" tvg-logo="https://freight.cargo.site/w/1200/i/3cf72163d993c4d87263e6d4990ec4ccdd1e14b09ce89e6e35dee1de83ef4985/CN.jpg",CARTOON NETWORK HD
 udp://@225.1.2.231:30120
-#EXTINF:-1 group-title="Quốc Tế (HD)"https://i.ytimg.com/vi/ZqVyukYe4YM/hq720.jpg",arirang KOREA
+#EXTINF:-1 group-title="Truyền Hình" tvg-logo="https://i.ytimg.com/vi/ZqVyukYe4YM/hq720.jpg",arirang KOREA
 udp://@225.1.4.74:30120
-#EXTINF:-1 group-title="Quốc Tế (HD)"https://i.imgur.com/VO7PRty.png",Outdoor Channel (HD 8Mbps)
+#EXTINF:-1 group-title="Truyền Hình" tvg-logo="https://i.imgur.com/VO7PRty.png",Outdoor Channel (HD 8Mbps)
 udp://@225.1.2.215:30120
-#EXTINF:-1 group-title="Quốc Tế (HD)"https://raw.githubusercontent.com/vuminhthanh12/Logo/refs/heads/main/cinemax.png",Cinemax
+#EXTINF:-1 group-title="Truyền Hình" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/Logo/refs/heads/main/cinemax.png",Cinemax
 udp://@225.1.2.86:30120
-#EXTINF:-1 group-title="Quốc Tế (HD)"https://i.imgur.com/7nIUtCU.png",HBO
+#EXTINF:-1 group-title="Truyền Hình" tvg-logo="https://i.imgur.com/7nIUtCU.png",HBO
 udp://@225.1.2.233:30120
-#EXTINF:-1 group-title="Quốc Tế (HD)"https://static.fptplay.net/static/img/share/channels/icon_channel_axn_146580810334.png",AXN HD
+#EXTINF:-1 group-title="Truyền Hình" tvg"https://static.fptplay.net/static/img/share/channels/icon_channel_axn_146580810334.png",AXN HD
 udp://@225.1.2.225:30120
-#EXTINF:-1 group-title="Quốc Tế (HD)"https://cms.cignal.tv/Upload/Images/Discovery-Asia.png",Discovery Asia HD
+#EXTINF:-1 group-title="Truyền Hình" tvg"https://cms.cignal.tv/Upload/Images/Discovery-Asia.png",Discovery Asia HD
 udp://@225.1.2.223:30120
-#EXTINF:-1 group-title="Quốc Tế (HD))",ABC AUSTRALIA
+#EXTINF:-1 group-title="Truyền Hình" tvg-logo=",ABC AUSTRALIA
 udp://@225.1.2.21:30120
-#EXTINF:-1 group-title="Quốc Tế (HD)"http://i.imgur.com/lB0VeoB.png",Discovery Channel HD
+#EXTINF:-1 group-title="Truyền Hình" tvg-logo="http://i.imgur.com/lB0VeoB.png",Discovery Channel HD
 udp://@225.1.1.238:30120
-#EXTINF:-1 group-title="Quốc Tế (HD)"https://hls.mskycdn.online/logo/animalhd.png",Animal Planet
+#EXTINF:-1 group-title="Truyền Hình" tvg-logo="https://hls.mskycdn.online/logo/animalhd.png",Animal Planet
 udp://@225.1.1.231:30120
-#EXTINF:-1 group-title="Quốc Tế (HD)"http://i.imgur.com/2gKHeDW.png",Fashion TV HD
+#EXTINF:-1 group-title="Truyền Hình" tvg-logo="http://i.imgur.com/2gKHeDW.png",Fashion TV HD
 udp://@225.1.2.227:30120
-#EXTINF:-1 group-title="Quốc Tế (HD)",NHK WORLD JAPAN (HD 8Mbps)
+#EXTINF:-1 group-title="Truyền Hình" tvg-logo=",NHK WORLD JAPAN (HD 8Mbps)
 udp://@225.1.1.47:30120
-#EXTINF:-1 group-title="Quốc Tế (HD)",TLC (HD 8Mbps)
+#EXTINF:-1 group-title="Truyền Hình" tvg-logo=",TLC (HD 8Mbps)
 udp://@225.1.1.236:30120
-#EXTINF:-1 group-title="Quốc Tế (HD),ASIE FRANCE HD
+#EXTINF:-1 group-title="Truyền Hình" tvg-logo=,ASIE FRANCE HD
 udp://@225.1.1.200:30120
-#EXTINF:-1 group-title="Quốc Tế (HD)="https://i.imgur.com/YF2zMTz.png",France 24
+#EXTINF:-1 group-title="Truyền Hình" tvg-logo=="https://i.imgur.com/YF2zMTz.png",France 24
 udp://@225.1.2.211:30120
-#EXTINF:-1 group-title="Quốc Tế (HD)"https://static.fptplay.net/static/img/share/channels/icon_channel_da-vinci-learning_149759147347.png",Da Vinci HD
+#EXTINF:-1 group-title="Truyền Hình" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_da-vinci-learning_149759147347.png",Da Vinci HD
 udp://@225.1.1.197:30120
-#EXTINF:-1 group-title="Quốc Tế (HD)"https://teohdtv.github.io/thumbs/INT/CNBC.png",CNBC Asia
+#EXTINF:-1 group-title="Truyền Hình" tvg-logo="https://teohdtv.github.io/thumbs/INT/CNBC.png",CNBC Asia
 udp://@225.1.1.227:30120
-#EXTINF:-1 group-title="Quốc Tế (HD)"https://i.imgur.com/LjOE7VC.png",CNN
+#EXTINF:-1 group-title="Truyền Hình" tvg-logo="https://i.imgur.com/LjOE7VC.png",CNN
 udp://@225.1.1.242:30120
-#EXTINF:-1 group-title="Quốc Tế (HD)"https://i.imgur.com/KL9oaqc.png",Asian Food Network 
+#EXTINF:-1 group-title="Truyền Hình" tvg-logo="https://i.imgur.com/KL9oaqc.png",Asian Food Network 
 udp://@225.1.1.198:30120
-#EXTINF:-1 group-title="Quốc Tế (HD)"https://i.imgur.com/D8zXF7p.png",TV5 Monde Asie
+#EXTINF:-1 group-title="Truyền Hình" tvg-logo="https://i.imgur.com/D8zXF7p.png",TV5 Monde Asie
 udp://@225.1.1.200:30120
