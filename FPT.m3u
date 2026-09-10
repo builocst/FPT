@@ -12,6 +12,8 @@ udp://@225.1.1.235:30120
 udp://@225.1.2.25:30120
 #EXTINF:-1 group-title="Truyền Hình"tvg-logo="https://i.imgur.com/hSdSUqx.png", THVL5 | TH Vĩnh Long
 udp://@225.1.2.172:30120
+#EXTINF:-1 group-title="Truyền Hình"tvg-logo="https://tvbaw-na.s3.us-west-1.amazonaws.com/hb/TVB%20Vietnam%20Banner_Side.jpg", TVB VIỆT NAM
+https://amg01868-amg01868c3-tvbanywhere-us-4491.playouts.now.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 group-title="Truyền Hình" tvg-logo="https://i.imgur.com/0fGI8cJ.png",Cần Thơ 1
 udp://@225.1.1.132:30120
 #EXTINF:-1 group-title="Truyền Hình" tvg-logo="https://i.imgur.com/0fGI8cJ.png",Cần Thơ 2
@@ -70,7 +72,7 @@ udp://@225.1.2.177:30120
 udp://@225.1.1.124:30120
 #EXTINF:-1 group-title="Truyền Hình"tvg-logo="https://i.imgur.com/N2gUYoh.png",Khánh Hòa
 udp://@225.1.1.133:30120
-#EXTINF:-1 tvg-name="TH BINH DINH" group-title="Dia phuong (HD)",BTV HD _ TH Bình Dinh (HD 8Mbps)
+#EXTINF:-1 group-title="Truyền Hình"tvg-logo="https://i.postimg.cc/grHBjV9t/Gialai.png",GTV - TH GIA LAI HD
 udp://@225.1.1.145:30120
 #EXTINF:-1 group-title="Truyền Hình"tvg-logo="https://i.imgur.com/FTyvVYO.png",Quảng Ngãi
 udp://@225.1.2.174:30120
@@ -94,7 +96,7 @@ udp://@225.1.1.164:30120
 udp://@225.1.2.165:30120
 #EXTINF:-1 group-title="Truyền Hình"tvg-logo="https://i.imgur.com/pL4NqYO.png",Ninh Bình
 udp://@225.1.2.185:30120
-#EXTINF:-1 group-title="Truyền Hình"tvg-logo=,THAINGUYEN1 HD
+#EXTINF:-1 group-title="Truyền Hình"tvg-logo="https://i.imgur.com/P3pbab8.png",TN - TH THÁI NGUYÊN HD
 udp://@225.1.2.179:30120
 #EXTINF:-1 group-title="Truyền Hình"tvg-logo="https://i.imgur.com/ldwQU4L.png",Lào Cai
 udp://@225.1.1.119:30120
@@ -117,7 +119,7 @@ udp://@225.1.1.108:30120
 #EXTINF:-1 group-title="Truyền Hình" tvg-logo="https://i.ibb.co/SffsRYs/ccvtv5tn.webp" tvg-id="6c6c043b6a973a5178240d491f38b3d0",VTV5 Tây Nguyên
 https://live.fptplay53.net/fnxhd1/vtv5taynguyen_vhls.smil/chunklist.m3u8
 udp://@225.1.1.131:30120
-#EXTINF:-1 tvg-id="vtv6hd" group-title="📺 VTV" tvg-logo="https://image1.vnmedia.xyz/logo/vtv6hd.png" , VTV6 HD
+#EXTINF:-1 group-title="Truyền Hình" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/Logo/refs/heads/main/VTV6.png", VTV6
 udp://@225.1.2.154:30120
 #EXTINF:-1 group-title="Truyền Hình" tvg-logo="https://i.ibb.co/JjwwJCk/ccvtv7.webp" tvg-id="473cf9c98b75349d80c362df68dc145e",VTV7
 udp://@225.1.2.96:30120
@@ -127,9 +129,9 @@ udp://@225.1.2.166:30120
 udp://@225.1.1.128:30120
 #EXTINF:-1 group-title="Truyền Hình"tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/VTV10.png", VTV10 
 udp://@225.1.2.245:30120
-#EXTINF:-1 group-title="Truyền Hình"tvg-logo=, VIETNAM TODAY
+#EXTINF:-1 group-title="Truyền Hình"tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/VietnamToday.jpg", Vietnam Today
 udp://@225.1.2.190:30120
-#EXTINF:0,SCTV6
+#EXTINF:-1 group-title="Truyền Hình"tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/sctv6.png"
 udp://@225.1.1.188:30120
 #EXTINF:-1 group-title="Truyền Hình"tvg-logo="https://i.imgur.com/UIGZw0y.png",QPVN HD
 udp://@225.1.2.217:30120
@@ -147,7 +149,7 @@ udp://@225.1.1.192:30120
 udp://@225.1.1.190:30120
 #EXTINF:-1 group-title="Truyền Hình" tvg-logo="https://i.ibb.co/Z6Hf06M/cchtvctuanviet.webp" tvg-id="58b9fe39a6a2666a07b921bdd83a2ba4",HTVC Thuần Việt
 udp://@225.1.1.186:30120
-#EXTINF:-1 group-title="Truyền Hình"tvg-logo=,HTVC PHIM TRUYEN HD
+#EXTINF:-1 group-title="Truyền Hình"tvg-logo="https://i.imgur.com/P0wqvmu.png",HTVC PHIM HD
 udp://@225.1.1.184:30120
 #EXTINF:-1 group-title="Truyền Hình" tvg-logo="https://i.ibb.co/vhLGXcK/cchtvcplus.webp" tvg-id="fd51b6c6836ec943e7ad21f0036f879e",HTVC+
 udp://@225.1.1.181:30120
