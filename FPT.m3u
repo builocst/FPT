@@ -167,7 +167,7 @@ udp://@225.1.1.178:30120
 udp://@225.1.1.165:30120
 #EXTINF:-1 group-title="Quốc Tế (HD)"https://static.wikia.nocookie.net/logos/images/2/26/KIX.png/revision/latest/scale-to-width-down/1200?cb=20211017094335&path-prefix=vi",KiX
 udp://@225.1.2.144:30120
-#EXTINF:-1 group-title="Quốc Tế (HD)"https://s7774.cdn.mytvnet.vn/vimages/6b/ba/a3/36/60/0a/6ba36-pwarnerhd-channel-unkn.png",Warner Bros TV HD
+#EXTINF:-1 group-title="Quốc Tế (HD)"https://i.postimg.cc/bJ4n1D6n/Warner-TV-Asia.png",Warner Bros TV HD
 udp://@225.1.1.139:30120
 #EXTINF:-1 group-title="Quốc Tế (HD)"https://www.voilah.sg/wp-content/uploads/2020/04/cinema-world-2.png",Cinema World
 udp://@225.1.1.142:30120
