@@ -20,7 +20,7 @@ udp://@225.1.1.132:30120
 udp://@225.1.1.157:30120
 #EXTINF:-1 group-title="Truyền Hình" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/CanTho3.png", Cần Thơ 3 HD - Báo và PTTH Thành Phố Cần Thơ
 udp://@225.1.1.159:30120
-#EXTINF:-1 group-title="Truyền Hình"tvg-logo="https://i.imgur.com/HFm3hbC".png,TAY NINH 1 HD
+#EXTINF:-1 group-title="Truyền Hình"tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/TayNinhTV.jpg", Tây Ninh TV - Báo và PTTH Tây Ninh
 udp://@225.1.1.162:30120
 #EXTINF:-1 group-title="Truyền Hình"tvg-logo="https://i.imgur.com/DCLUAqZ.png",Đồng Nai 1
 udp://@225.1.1.152:30120
@@ -165,7 +165,7 @@ udp://@225.1.1.180:30120
 udp://@225.1.1.178:30120
 #EXTINF:-1 group-title="Truyền Hình" tvg-logo="https://i.ibb.co/R6myMTc/cchtvthethao.webp" tvg-id="cecd99d151bcb92a3866024f08c07b9f ",HTV Thể Thao
 udp://@225.1.1.165:30120
-#EXTINF:-1 group-title="Truyền Hình"tvg-logo="https://telegra.ph/file/bccc6463dd079c2120699.png",KiX
+#EXTINF:-1 group-title="Truyền Hình"tvg-logo="https://static.wikia.nocookie.net/logos/images/2/26/KIX.png/revision/latest/scale-to-width-down/1200?cb=20211017094335&path-prefix=vi",KiX
 udp://@225.1.2.144:30120
 #EXTINF:-1 group-title="Quốc Tế (HD)"https://s7774.cdn.mytvnet.vn/vimages/6b/ba/a3/36/60/0a/6ba36-pwarnerhd-channel-unkn.png",Warner Bros TV HD
 udp://@225.1.1.139:30120
