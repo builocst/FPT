@@ -118,7 +118,6 @@ https://live.fptplay53.net/fnxhd1/vtv5tnb_vhls.smil/chunklist.m3u8
 udp://@225.1.1.108:30120
 #EXTINF:-1 group-title="Truyền Hình VTV"tvg-logo="https://i.ibb.co/SffsRYs/ccvtv5tn.webp" tvg-id="6c6c043b6a973a5178240d491f38b3d0",VTV5 Tây Nguyên
 https://live.fptplay53.net/fnxhd1/vtv5taynguyen_vhls.smil/chunklist.m3u8
-udp://@225.1.1.131:30120
 #EXTINF:-1 group-title="Truyền Hình VTV"tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/Logo/refs/heads/main/VTV6.png", VTV6
 udp://@225.1.2.154:30120
 #EXTINF:-1 group-title="Truyền Hình VTV"tvg-logo="https://i.ibb.co/JjwwJCk/ccvtv7.webp" tvg-id="473cf9c98b75349d80c362df68dc145e",VTV7
