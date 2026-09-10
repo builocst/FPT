@@ -165,7 +165,7 @@ udp://@225.1.1.180:30120
 udp://@225.1.1.178:30120
 #EXTINF:-1 group-title="Truyền Hình" tvg-logo="https://i.ibb.co/R6myMTc/cchtvthethao.webp" tvg-id="cecd99d151bcb92a3866024f08c07b9f ",HTV Thể Thao
 udp://@225.1.1.165:30120
-#EXTINF:-1 group-title="Truyền Hình"tvg-logo="https://static.wikia.nocookie.net/logos/images/2/26/KIX.png/revision/latest/scale-to-width-down/1200?cb=20211017094335&path-prefix=vi",KiX
+#EXTINF:-1 group-title="Quốc Tế (HD)"https://static.wikia.nocookie.net/logos/images/2/26/KIX.png/revision/latest/scale-to-width-down/1200?cb=20211017094335&path-prefix=vi",KiX
 udp://@225.1.2.144:30120
 #EXTINF:-1 group-title="Quốc Tế (HD)"https://s7774.cdn.mytvnet.vn/vimages/6b/ba/a3/36/60/0a/6ba36-pwarnerhd-channel-unkn.png",Warner Bros TV HD
 udp://@225.1.1.139:30120
@@ -173,19 +173,19 @@ udp://@225.1.1.139:30120
 udp://@225.1.1.142:30120
 #EXTINF:-1 group-title="Quốc Tế (HD)"https://i.ytimg.com/vi/0jFG4yuzMRo/maxresdefault.jpg",BBC Earth HD
 udp://@225.1.2.24:30120
-#EXTINF:-1 group-title="Quốc Tế (HD)",BBC LIFESTYLE: Kênh chuyên sâu vi ðoi song
+#EXTINF:-1 group-title="Quốc Tế (HD)"https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch502_425_305",BBC LIFESTYLE: Kênh chuyên sâu vi ðoi song
 udp://@225.1.2.52:30120
 #EXTINF:-1 group-title="Quốc Tế (HD)"https://i.ytimg.com/vi/jL2fsQB9J-g/maxresdefault.jpg",BBC News
 udp://@225.1.2.74:30120
-#EXTINF:-1 group-title="Quốc Tế (HD)",BBC CbeeBies (HD 8Mbps)
+#EXTINF:-1 group-title="Quốc Tế (HD)"https://s72140.cdn.mytvnet.vn/vimages/7d/d5/58/8c/ce/ea/7d58c-pcbeebieshd-channel-unkn.png",BBC CbeeBies (HD 8Mbps)
 udp://@225.1.1.134:30120
-#EXTINF:-1 group-title="Quốc Tế (HD)",CARTOON NETWORK HD
+#EXTINF:-1 group-title="Quốc Tế (HD)"https://freight.cargo.site/w/1200/i/3cf72163d993c4d87263e6d4990ec4ccdd1e14b09ce89e6e35dee1de83ef4985/CN.jpg",CARTOON NETWORK HD
 udp://@225.1.2.231:30120
-#EXTINF:-1 group-title="Quốc Tế (HD)",arirang KOREA
+#EXTINF:-1 group-title="Quốc Tế (HD)"https://i.ytimg.com/vi/ZqVyukYe4YM/hq720.jpg",arirang KOREA
 udp://@225.1.4.74:30120
-#EXTINF:-1 group-title="Quốc Tế (HD)",Outdoor Channel (HD 8Mbps)
+#EXTINF:-1 group-title="Quốc Tế (HD)"https://i.imgur.com/VO7PRty.png",Outdoor Channel (HD 8Mbps)
 udp://@225.1.2.215:30120
-#EXTINF:-1 group-title="Quốc Tế (HD)"https://freem3u.xyz/static/images/global/cinemax.png",Cinemax
+#EXTINF:-1 group-title="Quốc Tế (HD)"https://raw.githubusercontent.com/vuminhthanh12/Logo/refs/heads/main/cinemax.png",Cinemax
 udp://@225.1.2.86:30120
 #EXTINF:-1 group-title="Quốc Tế (HD)"https://i.imgur.com/7nIUtCU.png",HBO
 udp://@225.1.2.233:30120
