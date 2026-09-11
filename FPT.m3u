@@ -72,7 +72,7 @@ udp://@225.1.2.177:30120
 udp://@225.1.1.124:30120
 #EXTINF:-1 group-title="Truyền Hình"tvg-logo="https://i.imgur.com/N2gUYoh.png",Khánh Hòa
 udp://@225.1.1.133:30120
-#EXTINF:-1 group-title="Truyền Hình"tvg-logo="https://i.imgur.com/z7l0ZZg.png",GTV - TH GIA LAI HD
+#EXTINF:-1 group-title="Truyền Hình"tvg-logo="https://i.imgur.com/z7l0ZZg.png",Gia Lai
 udp://@225.1.1.145:30120
 #EXTINF:-1 group-title="Truyền Hình"tvg-logo="https://i.imgur.com/FTyvVYO.png",Quảng Ngãi
 udp://@225.1.2.174:30120
@@ -90,7 +90,7 @@ udp://@225.1.1.44:30120
 https://live.mediatech.vn/live/28548ca35823d41426d8b3da7ed82bdab13/playlist.m3u8
 #EXTINF:-1 group-title="Truyền Hình"tvg-logo="https://i.imgur.com/iq9JLb9.png",Hải Phòng 3
 udp://@225.1.1.158:30120
-#EXTINF:-1 group-title="Truyền Hình"tvg-logo="https://i.imgur.com/sPyR9t6.png",BTV - TH BẮC NINH HD
+#EXTINF:-1 group-title="Truyền Hình"tvg-logo="https://i.imgur.com/sPyR9t6.png",Bắc Ninh
 udp://@225.1.1.164:30120
 #EXTINF:-1 group-title="Truyền Hình"tvg-logo="https://i.imgur.com/LXuRwJY.png",Phú Thọ
 udp://@225.1.2.165:30120
