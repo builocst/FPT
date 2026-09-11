@@ -12,7 +12,7 @@ udp://@225.1.1.235:30120
 udp://@225.1.2.25:30120
 #EXTINF:-1 group-title="Truyền Hình"tvg-logo="https://i.imgur.com/hSdSUqx.png", THVL5 | TH Vĩnh Long
 udp://@225.1.2.172:30120
-#EXTINF:-1 group-title="Truyền Hình"tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/sctv6.png"
+#EXTINF:-1 group-title="Truyền Hình"tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/sctv6.png",SCTV6
 udp://@225.1.1.188:30120
 #EXTINF:-1 group-title="Truyền Hình"tvg-logo="https://tvbaw-na.s3.us-west-1.amazonaws.com/hb/TVB%20Vietnam%20Banner_Side.jpg", TVB VIỆT NAM
 https://amg01868-amg01868c3-tvbanywhere-us-4491.playouts.now.amagi.tv/playlist1080p.m3u8
