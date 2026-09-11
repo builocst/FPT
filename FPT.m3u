@@ -204,11 +204,22 @@ udp://@225.1.1.200:30120
 udp://@225.1.2.211:30120
 #EXTINF:-1 group-title="Truyền Hình Quốc Tế VIP "https://static.fptplay.net/static/img/share/channels/icon_channel_da-vinci-learning_149759147347.png",Da Vinci HD
 udp://@225.1.1.197:30120
-#EXTINF:-1 group-title="Truyền Hình Quốc Tế VIP "https://teohdtv.github.io/thumbs/INT/CNBC.png",CNBC Asia
-udp://@225.1.1.227:30120
 #EXTINF:-1 group-title="Truyền Hình Quốc Tế VIP " tvg-logo="https://i.imgur.com/LjOE7VC.png",CNN
 udp://@225.1.1.242:30120
 #EXTINF:-1 group-title="Truyền Hình Quốc Tế VIP " tvg-logo="https://i.imgur.com/KL9oaqc.png",Asian Food Network 
 udp://@225.1.1.198:30120
 #EXTINF:-1 group-title="Truyền Hình Quốc Tế VIP " tvg-logo=https://i.imgur.com/D8zXF7p.png",TV5 Monde Asie
 udp://@225.1.1.200:30120
+#EXTINF:-1 tvg-id="boxhits" group-title="Quốc tế" tvg-logo="https://img.vtvprime.vn/aPZvboOAKa1wI9F1SICEoUHdjz2oFB1ivWybejkenro/rs:fit:836:468/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvMDFjNjI3OTItMjkyMy00NTRmLWI3YjgtZDBmNzAxNDhjZWM3LnBuZw==.png", Box Hits
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
+https://livevlisctcdnw.seenow.vn/mean/BOXHIT/manifest.mpd
+
+#EXTINF:-1 tvg-id="Box Movies 1" group-title="Quốc tế" tvg-logo="https://img.vtvprime.vn/osNJFBQ8y3md3MUWB7-Zr0zkk6HMvffHsZ3tZGsw-p8/rs:fit:836:468/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvZDFjMjZjMjktZjA0Ni00YTYxLTljODEtYjQ2YWE3YmU3YmZiLnBuZw==.png",Box Movie 1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
+https://livevlisctcdnw.seenow.vn/mean/BM1/manifest.mpd
