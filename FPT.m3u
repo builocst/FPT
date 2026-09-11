@@ -142,7 +142,7 @@ udp://@225.1.1.180:30120
 udp://@225.1.1.193:30120
 #EXTINF:-1 group-title="Truyền Hình HTV"tvg-logo="https://i.ibb.co/8rWVRBf/cchtv3.webp" tvg-id="f73a137acaaf6d8b228e644912b812bb",HTV3
 udp://@225.1.1.178:30120
-#EXTINF:-1 group-title="Truyền Hình HTV"tvg-logo="https://i.ibb.co/cw0Jym1/cchtvkey.webp" tvg-id="6dcfc8a79c8341d5a4c5bf672928fba4",HTV Keys
+#EXTINF:-1 group-title="Truyền Hình HTV"tvg-logo="https://i.ibb.co/cw0Jym1/cchtvkey.webp" tvg-id="6dcfc8a79c8341d5a4c5bf672928fba4",HTV4 
 udp://@225.1.1.177:30120
 #EXTINF:-1 group-title="Truyền Hình HTV"tvg-logo="https://i.imgur.com/EI0mJRf.png",HTV5 HD
 udp://@225.1.2.189:30120
