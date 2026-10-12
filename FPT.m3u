@@ -281,7 +281,7 @@ udp://@225.1.1.47:30120
 udp://@225.1.1.236:30120
 #EXTINF:-1 group-title="Truyền Hình Quốc Tế VIP " tvg-logo="https://i.imgur.com/YF2zMTz.png",France 24
 udp://@225.1.2.211:30120
-#EXTINF:-1 group-title="Truyền Hình Quốc Tế VIP "https://i.postimg.cc/sfkTP1qX/davinci.png",Da Vinci HD
+#EXTINF:-1 group-title="Truyền Hình Quốc Tế VIP " tvg-logo="https://i.postimg.cc/sfkTP1qX/davinci.png",Da Vinci HD
 udp://@225.1.1.197:30120
 #EXTINF:-1 group-title="Truyền Hình Quốc Tế VIP " tvg-logo="https://i.imgur.com/LjOE7VC.png",CNN
 udp://@225.1.1.242:30120
