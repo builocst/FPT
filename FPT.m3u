@@ -1,15 +1,15 @@
 #EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml"
-#--------------Truyền Hình-------------------------------#
+#--------------Truyền Hình Vĩnh Long -------------------------------#
 
-#EXTINF:-1 group-title="Truyền Hình"tvg-logo="https://i.imgur.com/pTVybK6.png",THVL1 | TH Vĩnh Long
+#EXTINF:-1 group-title="Truyền Hình Vĩnh Long"tvg-logo="https://i.imgur.com/pTVybK6.png",THVL1 | TH Vĩnh Long
 udp://@225.1.1.155:30120
-#EXTINF:-1 group-title="Truyền Hình"tvg-logo="https://i.imgur.com/MsHdGNZ.png",THVL2 | TH Vĩnh Long
+#EXTINF:-1 group-title="Truyền Hình Vĩnh Long"tvg-logo="https://i.imgur.com/MsHdGNZ.png",THVL2 | TH Vĩnh Long
 udp://@225.1.1.154:30120
-#EXTINF:-1 group-title="Truyền Hình"tvg-logo="https://i.imgur.com/44c1Yoz.png",THVL3 | TH Vĩnh Long
+#EXTINF:-1 group-title="Truyền Hình Vĩnh Long"tvg-logo="https://i.imgur.com/44c1Yoz.png",THVL3 | TH Vĩnh Long
 udp://@225.1.1.235:30120
-#EXTINF:-1 group-title="Truyền Hình"tvg-logo="https://i.imgur.com/JWDsJxB.png",THVL4 | TH Vĩnh Long
+#EXTINF:-1 group-title="Truyền Hình Vĩnh Long"tvg-logo="https://i.imgur.com/JWDsJxB.png",THVL4 | TH Vĩnh Long
 udp://@225.1.2.25:30120
-#EXTINF:-1 group-title="Truyền Hình"tvg-logo="https://i.imgur.com/hSdSUqx.png", THVL5 | TH Vĩnh Long
+#EXTINF:-1 group-title="Truyền Hình Vĩnh Long"tvg-logo="https://i.imgur.com/hSdSUqx.png", THVL5 | TH Vĩnh Long
 udp://@225.1.2.172:30120
 
 #--------------Sự Kiện TV360-------------------------------#
