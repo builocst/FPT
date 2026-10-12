@@ -11,7 +11,6 @@ udp://@225.1.1.235:30120
 udp://@225.1.2.25:30120
 #EXTINF:-1 group-title="Truyền Hình Vĩnh Long"tvg-logo="https://i.imgur.com/hSdSUqx.png", THVL5 | TH Vĩnh Long
 udp://@225.1.2.172:30120
-
 #--------------Sự Kiện TV360-------------------------------#
 #EXTINF:-1 tvg-id="tv360plus1" group-title="Sự Kiện TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/15/22/1776266760359/ba1ca843cd06_480_270.png", TV360+1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
