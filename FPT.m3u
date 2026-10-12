@@ -196,6 +196,9 @@ udp://@225.1.2.13:30120
 udp://@225.1.2.247:30120
 #EXTINF:-1 group-title="Truyền Hình VTV"tvg-logo="https://i.imgur.com/9zVTtsA.png" tvg-id="80e7c76bee49cba58fabe6ef84acce0d",VTV4
 udp://@225.1.2.20:30120
+#EXTINF:-1 group-title="Truyền Hình VTV" tvg-logo="https://s12811.cdn.mytvnet.vn/vimages/b5/5c/cc/c2/22/29/b5cc2-pvtv5hd-channel-unkn.png" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=379&time=${start}&offset=${duration}, VTV5
+#EXTVLCOPT:http-user-agent=cvmedia/1.1.0
+udp://@225.1.1.131:30120
 #EXTINF:-1 group-title="Truyền Hình VTV"tvg-logo="https://i.ibb.co/hMcVcJK/ccvtv5tnb.webp" tvg-id="6c6c043b6a973a5178240d491f38b3d0",VTV5 Tây Nam Bộ
 udp://@225.1.2.236:30120
 #EXTINF:-1 group-title="Truyền Hình VTV"tvg-logo="https://i.ibb.co/hMcVcJK/ccvtv5tnb.webp" tvg-id="6c6c043b6a973a5178240d491f38b3d0",VTV5 Tây Nam Bộ
