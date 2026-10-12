@@ -280,8 +280,6 @@ udp://@225.1.2.227:30120
 udp://@225.1.1.47:30120
 #EXTINF:-1 group-title="Truyền Hình Quốc Tế VIP " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/1280px-TLC_Logo.svg.png",TLC (HD 8Mbps)
 udp://@225.1.1.236:30120
-#EXTINF:-1 group-title="Truyền Hình Quốc Tế VIP " tvg-logo=,ASIE FRANCE HD
-udp://@225.1.1.200:30120
 #EXTINF:-1 group-title="Truyền Hình Quốc Tế VIP " tvg-logo="https://i.imgur.com/YF2zMTz.png",France 24
 udp://@225.1.2.211:30120
 #EXTINF:-1 group-title="Truyền Hình Quốc Tế VIP "https://static.fptplay.net/static/img/share/channels/icon_channel_da-vinci-learning_149759147347.png",Da Vinci HD
@@ -290,7 +288,7 @@ udp://@225.1.1.197:30120
 udp://@225.1.1.242:30120
 #EXTINF:-1 group-title="Truyền Hình Quốc Tế VIP " tvg-logo="https://i.imgur.com/KL9oaqc.png",Asian Food Network 
 udp://@225.1.1.198:30120
-#EXTINF:-1 group-title="Truyền Hình Quốc Tế VIP " tvg-logo=https://i.imgur.com/D8zXF7p.png",TV5MONDE Asie 
+#EXTINF:-1 group-title="Truyền Hình Quốc Tế VIP " tvg-logo="https://img-ali1.tv360.vn/image1/2024/05/03/23/1714753734110/8e356cdac7e9_640_360.png",TV5MONDE Asie 
 udp://@225.1.1.200:30120
 #EXTINF:-1 tvg-id="boxhits" group-title="Truyền Hình Quốc Tế VIP" tvg-logo="https://img.vtvprime.vn/aPZvboOAKa1wI9F1SICEoUHdjz2oFB1ivWybejkenro/rs:fit:836:468/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvMDFjNjI3OTItMjkyMy00NTRmLWI3YjgtZDBmNzAxNDhjZWM3LnBuZw==.png", Box Hits
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
